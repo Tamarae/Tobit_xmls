@@ -25,12 +25,12 @@
 	<content type="list">
 		<item type="dict">
 			<index type="str">5,1</index>
-			<text type="str">მამცნებ მე ყოფით ვყო.</text>
+			<text type="str">[მამცნ]ებ მე ყოფით ვყო.</text>
 			<translation type="str">ἐντέταλσαί μοι ποιήσω</translation>
 			<tags type="list">
 				<item type="dict">
 					<id type="int">2</id>
-					<ogeo type="str">[მამცნ]ებ</ogeo>
+					<ogeo type="str">მამცნებ</ogeo>
 					<lemma type="str">მცნ</lemma>
 					<gram type="str">V.S2.O1.Sg</gram>
 					<grc type="str">ἐντέταλσαί </grc>
@@ -75,7 +75,7 @@
 					<id type="int">6</id>
 					<ogeo type="str">არამედ</ogeo>
 					<lemma type="str">არამედ</lemma>
-					<gram type="str">CONJ +</gram>
+					<gram type="str">CONJ</gram>
 					<grc type="str">ἀλλὰ </grc>
 					<arm type="str">Այլ</arm>
 					<eng type="str">but</eng>
@@ -11976,7 +11976,7 @@
 				</item>
 				<item type="dict">
 					<id type="int">1331</id>
-					<ogeo type="str">რაფაელისი.</ogeo>
+					<ogeo type="str">რაფაელისი</ogeo>
 					<lemma type="str">რაფაელ</lemma>
 					<gram type="str">PN.Gen.Sg</gram>
 					<grc type="str">Ραφαηλ</grc>
