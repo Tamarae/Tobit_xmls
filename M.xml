@@ -159,11 +159,11 @@
 				<item type="dict">
 					<id type="int">15</id>
 					<ogeo type="str">ქველის</ogeo>
-					<lemma type="str"/>
-					<gram type="str"/>
-					<grc type="str"/>
-					<arm type="str"/>
-					<eng type="str"/>
+					<lemma type="str"> </lemma>
+					<gram type="str"/> </gram>
+					<grc type="str"/> </grc>
+					<arm type="str"/> </arm>
+					<eng type="str"/> </eng>
 				</item>
 				<item type="dict">
 					<id type="int">16</id>
