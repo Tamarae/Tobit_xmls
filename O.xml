@@ -51,8 +51,8 @@
 					<ogeo type="str">ყოფით</ogeo>
 					<lemma type="str">ყოფა</lemma>
 					<gram type="str">N.Inst.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">do</eng>
 				</item>
 				<item type="dict">
@@ -85,8 +85,8 @@
 					<ogeo type="str">ვეცხლისა</ogeo>
 					<lemma type="str">ვეცხლ</lemma>
 					<gram type="str">N.Gen.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">silver</eng>
 				</item>
 				<item type="dict">
@@ -95,7 +95,7 @@
 					<lemma type="str">იგი</lemma>
 					<gram type="str">PRON.Gen.Sg</gram>
 					<grc type="str"> αὐτῆς</grc>
-					<arm type="str">աղջկանն,  [of girl]</arm>
+					<arm type="str">աղջկանն</arm>
 					<eng type="str">he</eng>
 				</item>
 				<item type="dict">
@@ -103,8 +103,8 @@
 					<ogeo type="str">რომელ</ogeo>
 					<lemma type="str">რომელ</lemma>
 					<gram type="str">PRON.Abs.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">which</eng>
 				</item>
 				<item type="dict">
@@ -112,8 +112,8 @@
 					<ogeo type="str">სთქუ</ogeo>
 					<lemma type="str">თქუ</lemma>
 					<gram type="str">V.S2.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">say</eng>
 				</item>
 				<item type="dict">
@@ -121,8 +121,8 @@
 					<ogeo type="str">დავედრებად</ogeo>
 					<lemma type="str">დავედრება</lemma>
 					<gram type="str">N.ADV.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">entrust</eng>
 				</item>
 				<item type="dict">
@@ -131,7 +131,7 @@
 					<lemma type="str">გაბაელ</lemma>
 					<gram type="str">PN.Gen</gram>
 					<grc type="str">παρὰ Γαβαηλ </grc>
-					<arm type="str">2զԳաբայէլ  [z-Gabayel]</arm>
+					<arm type="str">2զԳաբայէլ</arm>
 					<eng type="str">Gabael</eng>
 				</item>
 				<item type="dict">
@@ -139,8 +139,8 @@
 					<ogeo type="str">თანა,</ogeo>
 					<lemma type="str">თანა</lemma>
 					<gram type="str">PRT</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">with</eng>
 				</item>
 				<item type="dict">
@@ -310,8 +310,8 @@
 					<ogeo type="str">მას,</ogeo>
 					<lemma type="str">იგი</lemma>
 					<gram type="str">PRON.Dat.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">he</eng>
 				</item>
 				<item type="dict">
@@ -326,11 +326,11 @@
 				<item type="dict">
 					<id type="int">34</id>
 					<ogeo type="str">იცნას</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"> </gram>
-					<grc type="str"> </grc>
-					<arm type="str"> </arm>
-					<eng type="str"> </eng>
+					<lemma type="str">ცან</lemma>
+					<gram type="str">V.S3.O3.Sg</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x</arm>
+					<eng type="str">know</eng>
 				</item>
 				<item type="dict">
 					<id type="int">35</id>
@@ -344,20 +344,20 @@
 				<item type="dict">
 					<id type="int">36</id>
 					<ogeo type="str">ჰრწმენეს</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"> </gram>
-					<grc type="str"> </grc>
-					<arm type="str"> </arm>
-					<eng type="str"> </eng>
+					<lemma type="str">რწმენ</lemma>
+					<gram type="str">V.S3.Sg</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x</arm>
+					<eng type="str">believe</eng>
 				</item>
 				<item type="dict">
 					<id type="int">37</id>
 					<ogeo type="str">ჩემი</ogeo>
-					<lemma type="float">nan</lemma>
-					<gram type="float">nan</gram>
-					<grc type="float">nan</grc>
-					<arm type="str">+ առնն [of man]</arm>
-					<eng type="float">nan</eng>
+					<lemma type="float">ჩემ</lemma>
+					<gram type="float">PRON.Nom.Sg</gram>
+					<grc type="float">x</grc>
+					<arm type="str">x</arm>
+					<eng type="float">my</eng>
 				</item>
 				<item type="dict">
 					<id type="int">38</id>
@@ -374,7 +374,7 @@
 					<lemma type="str">ც</lemma>
 					<gram type="str">V.S3.O1.O3.Sg</gram>
 					<grc type="str">δώσει</grc>
-					<arm type="float">nan</arm>
+					<arm type="float">x</arm>
 					<eng type="str">give</eng>
 				</item>
 				<item type="dict">
@@ -407,11 +407,11 @@
 				<item type="dict">
 					<id type="int">43</id>
 					<ogeo type="str">არცაღა</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"> </gram>
-					<grc type="str"> </grc>
-					<arm type="str"> </arm>
-					<eng type="str"> </eng>
+					<lemma type="str">არცაღა</lemma>
+					<gram type="str">PRT</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x</arm>
+					<eng type="str">neither</eng>
 				</item>
 				<item type="dict">
 					<id type="int">44</id>
@@ -425,11 +425,11 @@
 				<item type="dict">
 					<id type="int">45</id>
 					<ogeo type="str">ხუჟიკეთისაჲ</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"> </gram>
-					<grc type="str"> </grc>
-					<arm type="str"> </arm>
-					<eng type="str"> </eng>
+					<lemma type="str">ხუჟიკეთ</lemma>
+					<gram type="str">PN</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x</arm>
+					<eng type="str">Media</eng>
 				</item>
 				<item type="dict">
 					<id type="int">46</id>
@@ -488,8 +488,8 @@
 					<ogeo type="str">მას:</ogeo>
 					<lemma type="str">იგი</lemma>
 					<gram type="str">PRON.Dat.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">he</eng>
 				</item>
 				<item type="dict">
@@ -506,8 +506,8 @@
 					<ogeo type="str">მომცა</ogeo>
 					<lemma type="str">ც</lemma>
 					<gram type="str">V.S3.O1.O3.Sg</gram>
-					<grc type="str">ἔδωκεν </grc>
-					<arm type="str">ե՛տ  </arm>
+					<grc type="str">ἔδωκεν</grc>
+					<arm type="str">ե՛տ </arm>
 					<eng type="str">give</eng>
 				</item>
 				<item type="dict">
@@ -533,8 +533,8 @@
 					<ogeo type="str">ჴელი</ogeo>
 					<lemma type="str">ჴელწერილ</lemma>
 					<gram type="str">N.Nom.Sg</gram>
-					<grc type="str">τὸ χειρόγραφον </grc>
-					<arm type="str">զգիր  </arm>
+					<grc type="str">τὸ χειρόγραφον</grc>
+					<arm type="str">զգիր</arm>
 					<eng type="str">handwritten</eng>
 				</item>
 				<item type="dict">
@@ -549,11 +549,11 @@
 				<item type="dict">
 					<id type="int">58</id>
 					<ogeo type="str">წერილი</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"> </gram>
-					<grc type="str"> </grc>
-					<arm type="str"> </arm>
-					<eng type="str"> </eng>
+					<lemma type="str">წერილ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x</arm>
+					<eng type="str">letter</eng>
 				</item>
 				<item type="dict">
 					<id type="int">59</id>
@@ -569,8 +569,8 @@
 					<ogeo type="str">წარმოვიღე.</ogeo>
 					<lemma type="str">ღ</lemma>
 					<gram type="str">V.S1.O3.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">take</eng>
 				</item>
 				<item type="dict">
@@ -587,8 +587,8 @@
 					<ogeo type="str">ერთი</ogeo>
 					<lemma type="str">ერთ</lemma>
 					<gram type="str">NUM.Nom.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">one</eng>
 				</item>
 				<item type="dict">
@@ -632,8 +632,8 @@
 					<ogeo type="str">ერთი</ogeo>
 					<lemma type="str">ერთ</lemma>
 					<gram type="str">NUM.Nom.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">one</eng>
 				</item>
 				<item type="dict">
@@ -650,8 +650,8 @@
 					<ogeo type="str">წარმოვიღე</ogeo>
 					<lemma type="str">ღ</lemma>
 					<gram type="str">V.S1.O3.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">take</eng>
 				</item>
 				<item type="dict">
@@ -668,8 +668,8 @@
 					<ogeo type="str">ერთი</ogeo>
 					<lemma type="str">ერთ</lemma>
 					<gram type="str">NUM.Nom.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">one</eng>
 				</item>
 				<item type="dict">
@@ -695,8 +695,8 @@
 					<ogeo type="str">ვეცხლისა</ogeo>
 					<lemma type="str">ვეცხლ</lemma>
 					<gram type="str">N.Gen.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">silver</eng>
 				</item>
 				<item type="dict">
@@ -713,8 +713,8 @@
 					<ogeo type="str">თანა.</ogeo>
 					<lemma type="str">თანა</lemma>
 					<gram type="str">PRT</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">with</eng>
 				</item>
 				<item type="dict">
@@ -728,12 +728,12 @@
 				</item>
 				<item type="dict">
 					<id type="int">78</id>
-					<ogeo type="str">ესერა,</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"> </gram>
-					<grc type="str"> </grc>
-					<arm type="str"> </arm>
-					<eng type="str"> </eng>
+					<ogeo type="str">ესერა</ogeo>
+					<lemma type="str">ესერა</lemma>
+					<gram type="str">PRT</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x</arm>
+					<eng type="str">x</eng>
 				</item>
 				<item type="dict">
 					<id type="int">79</id>
@@ -786,7 +786,7 @@
 					<lemma type="str">ვედრ</lemma>
 					<gram type="str">V.S1.O3.Sg</gram>
 					<grc type="str">παρεθέμην </grc>
-					<arm type="str">կայր   </arm>
+					<arm type="str">կայր </arm>
 					<eng type="str">give</eng>
 				</item>
 				<item type="dict">
@@ -821,7 +821,7 @@
 					<ogeo type="str">მისცა</ogeo>
 					<lemma type="str">ც</lemma>
 					<gram type="str">V.S3.O3.Sg</gram>
-					<grc type="float">nan</grc>
+					<grc type="float">x</grc>
 					<arm type="str">յաւանդի </arm>
 					<eng type="str">give</eng>
 				</item>
@@ -830,8 +830,8 @@
 					<ogeo type="str">მას</ogeo>
 					<lemma type="str">იგი</lemma>
 					<gram type="str">PRON.Dat.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">he</eng>
 				</item>
 				<item type="dict">
@@ -903,7 +903,7 @@
 					<lemma type="str">ძი</lemma>
 					<gram type="str">V.S2.O3.Sg</gram>
 					<grc type="str">ζήτησον </grc>
-					<arm type="str"> Խնդրեա՛ + դու [you]</arm>
+					<arm type="str"> Խնդրեա՛</arm>
 					<eng type="str">search</eng>
 				</item>
 				<item type="dict">
@@ -965,8 +965,8 @@
 					<ogeo type="str">თანა</ogeo>
 					<lemma type="str">თანა</lemma>
 					<gram type="str">PRT</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">with</eng>
 				</item>
 				<item type="dict">
@@ -983,8 +983,8 @@
 					<ogeo type="str">მას</ogeo>
 					<lemma type="str">იგი</lemma>
 					<gram type="str">PRON.Dat.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">he</eng>
 				</item>
 				<item type="dict">
@@ -1082,8 +1082,8 @@
 					<ogeo type="str">ვარ.</ogeo>
 					<lemma type="str">ყოფა</lemma>
 					<gram type="str">V.S1.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">be</eng>
 				</item>
 			</tags>
@@ -1114,11 +1114,11 @@
 				<item type="dict">
 					<id type="int">120</id>
 					<ogeo type="str">ტუბია</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"> </gram>
-					<grc type="str"> </grc>
-					<arm type="str"> </arm>
-					<eng type="str"> </eng>
+					<lemma type="str">ტუბია</lemma>
+					<gram type="str">PN.Nom</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x</arm>
+					<eng type="str">Tobias</eng>
 				</item>
 				<item type="dict">
 					<id type="int">121</id>
@@ -1170,8 +1170,8 @@
 					<ogeo type="str">თანა</ogeo>
 					<lemma type="str">თანა</lemma>
 					<gram type="str">PRT</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">with</eng>
 				</item>
 				<item type="dict">
@@ -1285,8 +1285,8 @@
 					<ogeo type="str">მას</ogeo>
 					<lemma type="str">იგი</lemma>
 					<gram type="str">PRON.Dat.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">he</eng>
 				</item>
 				<item type="dict">
@@ -1375,8 +1375,8 @@
 					<ogeo type="str">ერისათა.</ogeo>
 					<lemma type="str">ერ</lemma>
 					<gram type="str">N.Gen.Pl</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">nation</eng>
 				</item>
 				<item type="dict">
@@ -2846,8 +2846,8 @@
 					<ogeo type="str">მას:</ogeo>
 					<lemma type="str">იგი</lemma>
 					<gram type="str">PRON.Dat.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">he</eng>
 				</item>
 				<item type="dict">
@@ -2954,8 +2954,8 @@
 					<ogeo type="str">შენისა</ogeo>
 					<lemma type="str">შენი</lemma>
 					<gram type="str">PRON.Gen.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">your</eng>
 				</item>
 				<item type="dict">
@@ -2963,8 +2963,8 @@
 					<ogeo type="str">თანა?</ogeo>
 					<lemma type="str">თანა</lemma>
 					<gram type="str">PRT</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">with</eng>
 				</item>
 				<item type="dict">
@@ -2990,18 +2990,18 @@
 					<ogeo type="str">მას</ogeo>
 					<lemma type="str">იგი</lemma>
 					<gram type="str">PRON.Dat.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">he</eng>
 				</item>
 				<item type="dict">
 					<id type="int">323</id>
 					<ogeo type="str">ტუბი:</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"> </gram>
-					<grc type="str"> </grc>
-					<arm type="str"> </arm>
-					<eng type="str"> </eng>
+					<lemma type="str">ტუბი</lemma>
+					<gram type="str">PN.Nom</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x</arm>
+					<eng type="str">Tobit</eng>
 				</item>
 				<item type="dict">
 					<id type="int">324</id>
@@ -3123,8 +3123,8 @@
 					<ogeo type="str">ანგელოზმან</ogeo>
 					<lemma type="str">ანგელოზ</lemma>
 					<gram type="str">N.Erg.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">angel</eng>
 				</item>
 				<item type="dict">
@@ -3150,8 +3150,8 @@
 					<ogeo type="str">ვარ</ogeo>
 					<lemma type="str">ყოფა</lemma>
 					<gram type="str">V.S1.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">be</eng>
 				</item>
 				<item type="dict">
@@ -3177,8 +3177,8 @@
 					<ogeo type="str">სახლისაგან</ogeo>
 					<lemma type="str">სახლ</lemma>
 					<gram type="str">N.Gen.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">house</eng>
 				</item>
 				<item type="dict">
@@ -3186,8 +3186,8 @@
 					<ogeo type="str">სედემის</ogeo>
 					<lemma type="str">სედემ</lemma>
 					<gram type="str">PN.Gen.Sg</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">Sedem</eng>
 				</item>
 				<item type="dict">
