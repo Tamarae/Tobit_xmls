@@ -10,12 +10,12 @@
 		<publish_date type="str">2021</publish_date>
 		<licence type="str"> </licence>
 		<SourceDesc type="dict">
-			<idno type="str"> </idno>
-			<title type="str"> </title>
+			<idno type="str">წიგნი ტობისი_m.xml</idno>
+			<title type="str">წიგნი ტობისი_m</title>
 			<sourceStatus type="str"> </sourceStatus>
-			<location type="str"> </location>
+			<location type="str">მატენადარანი, მესროპ მაშტოცის სახელობის ხელნაწერთა ინსტიტუტი</location>
 			<date type="str"> </date>
-			<additionalDetail type="str"> </additionalDetail>
+			<additionalDetail type="str">7125</additionalDetail>
 		</SourceDesc>
 	</Info>
 	<content type="list">
@@ -159,20 +159,20 @@
 				<item type="dict">
 					<id type="int">15</id>
 					<ogeo type="str">ქველის</ogeo>
-					<lemma type="str"> </lemma>
-					<gram type="str"/> </gram>
-					<grc type="str"/> </grc>
-					<arm type="str"/> </arm>
-					<eng type="str"/> </eng>
+					<lemma type="str">ქველ</lemma>
+					<gram type="str"/>N.Gen.Sg</gram>
+					<grc type="str"/>x</grc>
+					<arm type="str"/>x</arm>
+					<eng type="str"/>merciful</eng>
 				</item>
 				<item type="dict">
 					<id type="int">16</id>
 					<ogeo type="str">საქმენი</ogeo>
-					<lemma type="str"/>
-					<gram type="str"/>
-					<grc type="str"/>
-					<arm type="str"/>
-					<eng type="str"/>
+					<lemma type="str">საქმე</lemma>
+					<gram type="str"/>N.Nom.Pl</gram>
+					<grc type="str"/>x</grc>
+					<arm type="str"/>x</arm>
+					<eng type="str"/>deed</eng>
 				</item>
 				<item type="dict">
 					<id type="int">17</id>
@@ -206,8 +206,8 @@
 					<ogeo type="str">მიმართ</ogeo>
 					<lemma type="str">მიმართ</lemma>
 					<gram type="str">PRP.</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
+					<grc type="float">x</grc>
+					<arm type="float">x</arm>
 					<eng type="str">towards</eng>
 				</item>
 				<item type="dict">
@@ -245,15 +245,7 @@
 					<grc type="str">μου </grc>
 					<arm type="str">իմոց` </arm>
 					<eng type="str">my</eng>
-				</item>
-				<item type="dict">
-					<id type="int">25</id>
-					<ogeo type="str">.</ogeo>
-					<lemma type="float">nan</lemma>
-					<gram type="float">nan</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
-					<eng type="float">nan</eng>
+				
 				</item>
 				<item type="dict">
 					<id type="int">26</id>
@@ -285,11 +277,11 @@
 				<item type="dict">
 					<id type="int">29</id>
 					<ogeo type="str">მი-რაჲ-ვიდოდეთ</ogeo>
-					<lemma type="str"/>
-					<gram type="str"/>
-					<grc type="str"/>
-					<arm type="str"/>
-					<eng type="str"/>
+					<lemma type="str">ვალ</lemma>
+					<gram type="str">V.S1.Pl</gram>
+					<grc type="str">x</grc>
+					<arm type="str">x </arm>
+					<eng type="str">go</eng>
 				</item>
 				<item type="dict">
 					<id type="int">30</id>
@@ -317,15 +309,7 @@
 					<grc type="str">Ἀσσυρίων </grc>
 					<arm type="str">Ասորեստանեայց </arm>
 					<eng type="str">Assyria </eng>
-				</item>
-				<item type="dict">
-					<id type="int">33</id>
-					<ogeo type="str">-</ogeo>
-					<lemma type="float">nan</lemma>
-					<gram type="float">nan</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
-					<eng type="float">nan</eng>
+				
 				</item>
 				<item type="dict">
 					<id type="int">34</id>
@@ -335,16 +319,7 @@
 					<grc type="str">εἰς Νινευή</grc>
 					<arm type="str">՛ի Նինուէ </arm>
 					<eng type="str">Ninive</eng>
-				</item>
-				<item type="dict">
-					<id type="int">35</id>
-					<ogeo type="str">:.</ogeo>
-					<lemma type="float">nan</lemma>
-					<gram type="float">nan</gram>
-					<grc type="float">nan</grc>
-					<arm type="float">nan</arm>
-					<eng type="float">nan</eng>
-				</item>
+				
 			</tags>
 		</item>
 		<item type="dict">
