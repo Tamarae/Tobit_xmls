@@ -22,6 +22,18 @@
 		<item type="dict">
 			<index type="str">I</index>
 			<text type="str">თავი</text>
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">1</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">1,1</index>
@@ -4325,6 +4337,18 @@
 		<item type="dict">
 			<index type="str">II</index>
 			<text type="str">თავი</text>
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">462</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">2,1</index>
@@ -6998,6 +7022,18 @@
 		<item type="dict">
 			<index type="str">III</index>
 			<text type="str">თავი</text>
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">748</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">3,1</index>
@@ -10682,6 +10718,8 @@
 		<item type="dict">
 			<index type="str">IV</index>
 			<text type="str">თავი</text>
+			<translation type="str"> </translation>
+			<tags type="list">
 				<item type="dict">
 					<id type="int">1145</id>
 					<ogeo type="str">თავი</ogeo>
@@ -10691,6 +10729,7 @@
 					<arm type="str">  զանձն իմ</arm>
 					<eng type="str">head</eng>
 				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">4,1</index>
@@ -14598,6 +14637,18 @@
 		<item type="dict">
 			<index type="str">V</index>
 			<text type="str">თავი</text>
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">1563</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">5,1</index>
@@ -19821,7 +19872,18 @@
 		<item type="dict">
 			<index type="str">VI</index>
 			<text type="str">თავი</text>
-
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">2122</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">6,1</index>
@@ -23885,6 +23947,18 @@
 		<item type="dict">
 			<index type="str">VII</index>
 			<text type="str">თავი</text>
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">2560</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">7,1</index>
@@ -27059,7 +27133,18 @@
 		<item type="dict">
 			<index type="str">VIII</index>
 			<text type="str">თავი</text>
-
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">2900</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">8,1</index>
@@ -31204,6 +31289,18 @@
 		<item type="dict">
 			<index type="str">IX</index>
 			<text type="str">თავი</text>
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">3344</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">9,1</index>
@@ -32987,7 +33084,18 @@
 		<item type="dict">
 			<index type="str">X</index>
 			<text type="str">თავი</text>
-			
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">3538</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">10,1</index>
@@ -35552,7 +35660,18 @@
 		<item type="dict">
 			<index type="str">XI</index>
 			<text type="str">თავი</text>
-		
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">3812</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">11,1</index>
@@ -39361,7 +39480,18 @@
 		<item type="dict">
 			<index type="str">XII</index>
 			<text type="str">თავი</text>
-		
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">4221</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">12,1</index>
@@ -42091,7 +42221,18 @@
 		<item type="dict">
 			<index type="str">XIII</index>
 			<text type="str">თავი</text>
-
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">4508</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">13,1</index>
@@ -45002,7 +45143,18 @@
 		<item type="dict">
 			<index type="str">XIV</index>
 			<text type="str">თავი</text>
-
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">4818</id>
+					<ogeo type="str">თავი</ogeo>
+					<lemma type="str">თავ</lemma>
+					<gram type="str">N.Nom.Sg</gram>
+					<grc type="str">ἐμαυτὴν</grc>
+					<arm type="str">  զանձն իմ</arm>
+					<eng type="str">head</eng>
+				</item>
+			</tags>
 		</item>
 		<item type="dict">
 			<index type="str">14,1 და დასცხრა აღსარებისაგან ტობი.</index>

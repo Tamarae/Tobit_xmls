@@ -8,14 +8,27 @@
 		<publisher-uni type="str">ილიას სახელმწიფო უნივერსიტეტი</publisher-uni>
 		<pubPlace type="str">თბილისი</pubPlace>
 		<publish_date type="str">2021</publish_date>
-		<licence type="str"> </licence>
+		<licence type="str">ვრცელდება ღიად <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported</ref> ლიცენზიით</licence>
 		<SourceDesc type="dict">
 			<idno type="str"> </idno>
-			<title type="str"> </title>
-			<sourceStatus type="str"> </sourceStatus>
-			<location type="str"> </location>
+			<title type="str">A-570</title>
+			<sourceStatus type="str">F ფონდი</sourceStatus>
+			<location type="str">ხელნაწერთა ეროვნული ცენტრი, თბილისი</location>
 			<date type="str"> </date>
-			<additionalDetail type="str"> </additionalDetail>
+			<additionalDetail type="str">
+				აქვს სხვადასხვა ხასიათის მინაწერები მხედრულით, ნუსხურით. ერთ-ერთი გადამწერი გიორგი ("ცოდვილსა გ~ის შ~ნ ღ~ნ, სინგურით პირველი ნეშტთას მერე, 56v) [XIV-XV სს.]. 
+				თავებად დაყოფა, ზოგან წიგნების მითითება და შენიშვნები ტექსტის მიმართ აშიებზე ხელის მიხედვით ეკუთვნის ვახტანგ VI.
+				ტობი: 95v–103r; მინაწერები: "დავით ბეგ აავდი" (მხედრულით, უკუღმა)  98v; "ღ~ო შ~ე ც~ი დიაკონი მიქელ ა~ნ კრელესნ" 103r.
+				უყდო;  
+				146 ფ, 
+				22,5X29,5; 
+				დაწერილია 2 სვეტად, სვეტში 30 სტრიქონი
+				ნაწერის ზომა - 15X22,5. შიდა აშია - 2,5, გარე აშია - 5. პირველი სვეტი 7,5, მეორე სვეტი - 6,5. 
+				სვეტებს შორის საშუალო მანძილი - 1. სტრიქონებს შორის მანძილი - 0,7.
+				მელანი - ყავისფერი და შავი (13-27);  შიგადაშიგ გამოყენებულია სინგურიც; 
+				ნუსხური; სხვადასხვა ხელი; საზედაო ასოები - ასომთავრულით და ხშირად სინგურით; სათაურები - მთავრულით და სინგურით;
+				ბეჭდური გამოცემა: ც. ქურციკიძე, ძველი აღთქმის აპოკრიფული წიგნების ქართული ვერსიები, I, "მეცნიერება", თბილისი, 1970
+			</additionalDetail>
 		</SourceDesc>
 	</Info>
 	<content type="list">
@@ -45238,3 +45251,6 @@
 		<item type="str"> </item>
 	</notes>
 </root>
+
+
+
