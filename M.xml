@@ -8,14 +8,39 @@
 		<publisher-uni type="str">ილიას სახელმწიფო უნივერსიტეტი</publisher-uni>
 		<pubPlace type="str">თბილისი</pubPlace>
 		<publish_date type="str">2021</publish_date>
-		<licence type="str"> </licence>
+		<licence type="str">ვრცელდება ღიად <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported</ref> ლიცენზიით</licence>
 		<SourceDesc type="dict">
-			<idno type="str">წიგნი ტობისი_m.xml</idno>
-			<title type="str">წიგნი ტობისი_m</title>
-			<sourceStatus type="str"> </sourceStatus>
-			<location type="str">მატენადარანი, მესროპ მაშტოცის სახელობის ხელნაწერთა ინსტიტუტი</location>
-			<date type="str"> </date>
-			<additionalDetail type="str">7125</additionalDetail>
+			<idno type="str"> </idno>
+			<title type="str"> </title>
+			<sourceStatus type="str">ხელნაწერი http://tobit.iliauni.edu.ge/digipal/manuscripts/4/</sourceStatus>
+			<location type="str">მატენადარანი, მესროპ მაშტოცის სახელობის ხელნაწერთა ინსტიტუტი, ქართულ ხელნაწერთა ფონდი, 7125, H-646</location>
+			<date type="str">XII-XIII</date>
+			<additionalDetail type="str">
+				
+				
+				ბიბლიოგრაფია: ც. ქურციკიძე, ძველი აღთქმის აპოკრიფული წიგნების ქართული ვერსიები, I, "მეცნიერება", თბილისი, 1970. |
+				ტობის წიგნის შემცველი ფრაგმენტი  | 
+				ეტრატი;  | 
+				ორად გაჭრილი ფურცლები  | 
+				გამოყენებული იყო სომხური ხელნაწერის საცავ ფურცლებად  | 
+				ნუსხური  | 
+				მელანი - შავი, შიგადაშიგ გამოყენებულია სინგურიც;  | 
+				ხელნაწერი თავდაპირველად დაწერილი უნდა ყოფილიყო 2 სვეტად,  | 
+				თითოეულ სვეტში 31 სტრიქონი;  | 
+				ეტრატის ზომა:31,5 X 25  | 
+				ტექსტის ზომა: 24,5 X 17  | 
+				აშიები:
+				შიდა - 2,8
+				გარე - 4
+				ზედა - 2,5
+				ქვედა - 4,5 
+				სვეტებს შორის - 1,7
+				სტრიქონებს შორის - 0,8  | 
+				ტობის წიგნიდან შემორჩენილი ნაწილებია: 1:2-1:3, 1:3-1:4, 1:6-1:8, 1:14-1:15, 1:15-1:17.  | 
+				ტობის ფრაგმენტების ზომებია: აშიები - დაახლოებით 6 სმ, ტექსტი - დაახლ. 7 სმ.  | 
+				პირველი ფრაგმენტზე შემონახულია 8 სტრიქონი, მეორეზე - 17, მესამეზე - 9, მეთხეზე - 8 და მეხუთეზე - 9 სტრიქონი  | 
+				არსებობს ხელნაწერის ფოტოები, გადაღებული ბერნარ უტიეს მიერ.  | 
+			</additionalDetail>
 		</SourceDesc>
 	</Info>
 	<content type="list">
